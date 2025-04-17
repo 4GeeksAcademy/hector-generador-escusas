@@ -1,5 +1,19 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: rgb(0, 0, 0);
+}
+.title {
+    color: rgb(46, 173, 196);
+    margin-top: 50px;
+    margin-bottom: 20px ;
+}
+.random{
+    color: blueviolet;
+    margin-top: 20px;
+    
+}
+
+.fixed-bottom{
+    color: brown;
 }
